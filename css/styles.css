@@ -53,11 +53,16 @@ h1 {
   background-color: #d6ecff;
 }
 
-.linkText {
+a {
   font-size: 18px;
+  color: green;
+}
+
+/* .linkText {
+  font-size: 10px;
   color: white;
   
-}
+} */
 
 .projectHead {
   text-align: center;
