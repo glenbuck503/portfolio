@@ -1,9 +1,14 @@
 Body {
-  padding: 65px;
+  padding: 55px;
 }
 
 h1 {
   font-size: 23px;
+  /* text-align: center; */
+}
+
+h1.headCenter {
+  text-align: center;
 }
 
 .nameHeader {
