@@ -19,3 +19,13 @@
 .background {
   background-color: rgb(216, 253, 213);
 }
+
+.sidebar {
+	float: left;
+	padding: 2px;
+	width: 10%;
+	font-size: 14px;
+	border: 2px solid rgb(216, 216, 216);
+	background-color: white;
+
+}
