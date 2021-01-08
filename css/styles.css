@@ -53,9 +53,21 @@ h1 {
   background-color: #d6ecff;
 }
 
-a {
+
+
+a.link1 {
   font-size: 18px;
-  color: green;
+  color: #df0d99;
+}
+
+a.link2 {
+  font-size: 18px;
+  color: #ce5dfa;
+}
+
+a.link3 {
+  font-size: 18px;
+  color: #df0d99;
 }
 
 /* .linkText {
