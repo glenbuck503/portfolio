@@ -1,3 +1,12 @@
-.name {
+.nameHeader {
   text-align: center;
+}
+
+.aboutMe {
+  font-size: 18px;
+  background-color: #95b7d4;
+} 
+
+.headBack {
+  background-color: beige;
 }
