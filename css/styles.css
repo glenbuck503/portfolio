@@ -85,6 +85,12 @@ a.contactLinks {
   text-align: center;
 }
 
+.language {
+  font-size: 12px;
+}
+
+
+
 img.hobbyPic {
   display: block;
   margin-left: auto;
