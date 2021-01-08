@@ -1,3 +1,7 @@
+Body {
+  padding: 50px;
+}
+
 .nameHeader {
   text-align: center;
 }
@@ -12,20 +16,32 @@
 }
 
 .hobbies {
-  background-color: rgb(245, 244, 202);
+  background-color: #f5f4ca;
 
 }
 
 .background {
-  background-color: rgb(216, 253, 213);
+  background-color: #d8fdd5;
 }
 
 .sidebar {
-	float: left;
+	float: right;
 	padding: 2px;
 	width: 10%;
 	font-size: 14px;
 	border: 2px solid rgb(216, 216, 216);
 	background-color: white;
 
+}
+
+.favoritePlaces {
+  background-color: #d8fdd5;
+}
+
+.workHistory {
+  background-color: #f5f4ca;
+}
+
+.projects {
+  background-color: #d6ecff;
 }
