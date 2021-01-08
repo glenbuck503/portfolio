@@ -53,8 +53,6 @@ h1 {
   background-color: #d6ecff;
 }
 
-
-
 a.link1 {
   font-size: 18px;
   color: #df0d99;
@@ -70,12 +68,15 @@ a.link3 {
   color: #df0d99;
 }
 
-/* .linkText {
-  font-size: 10px;
-  color: white;
-  
-} */
-
 .projectHead {
   text-align: center;
 }
+
+img.hobbyPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+
