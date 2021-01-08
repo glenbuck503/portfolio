@@ -1,8 +1,14 @@
 # Portfolio Landing Page
 
-#### This application will show about me information and work history
+<div align="center">
+<img src="https://github.com/glenbuck503.png" width="200px" height="auto" >
+</div>
+<br>
+<br>
 
-#### By Glen Buck
+## This application will show about me information and work history
+
+### By Glen Buck
 
 ## Description
 
