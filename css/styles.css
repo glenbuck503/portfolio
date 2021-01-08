@@ -2,13 +2,18 @@ Body {
   padding: 55px;
 }
 
-h1 {
-  font-size: 23px;
+h1.nameHeader {
+  font-size: 55px;  
   /* text-align: center; */
 }
 
 h1.headCenter {
   text-align: center;
+}
+
+h1 {
+  font-size: 27px;
+  font-family: Courier;
 }
 
 a.link {
