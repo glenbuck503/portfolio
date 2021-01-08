@@ -26,6 +26,7 @@ h1 {
 
 .background {
   background-color: #d8fdd5;
+  margin-top:30px;
 }
 
 .sidebar {
@@ -33,7 +34,7 @@ h1 {
 	padding: 2px;
 	width: 10%;
 	font-size: 14px;
-	border: 2px solid rgb(216, 216, 216);
+	border: 2px solid #d8d8d8;
   /* background-color: black; */
   color:black;
   text-align: center;
@@ -47,6 +48,7 @@ h1 {
 
 .workHistory {
   background-color: #f5f4ca;
+  margin-top:30px;
 }
 
 .projects {
@@ -76,7 +78,7 @@ img.hobbyPic {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 22%;
 
 }
 
