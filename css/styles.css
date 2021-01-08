@@ -45,3 +45,13 @@ Body {
 .projects {
   background-color: #d6ecff;
 }
+
+.linkText {
+  font-size: 18px;
+  color: white;
+  
+}
+
+.projectHead {
+  text-align: center;
+}
