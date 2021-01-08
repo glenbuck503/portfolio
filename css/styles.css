@@ -2,6 +2,10 @@ Body {
   padding: 65px;
 }
 
+h1 {
+  font-size: 26px;
+}
+
 .nameHeader {
   text-align: center;
 }
