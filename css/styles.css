@@ -11,6 +11,23 @@ h1.headCenter {
   text-align: center;
 }
 
+a.link {
+  font-size: 18px;
+  color: #7a7a58;
+}
+
+a.contactLinks {
+  color: #7a7a58;
+  font-size: 16px;
+}
+
+img.hobbyPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+}
+
 .nameHeader {
   text-align: center;
 }
@@ -56,29 +73,17 @@ h1.headCenter {
   margin-top:30px;
 }
 
+.projects {
+  background-color: #d6ecff;
+}
 .tax {
   font-size: 21px;
   font-family: monospace;
 }
 
-.projects {
-  background-color: #d6ecff;
-}
-
-a.link {
-  font-size: 18px;
-  color: #7a7a58;
-}
-
 .underline {
   text-decoration: underline;
 
-}
-
-
-a.contactLinks {
-  color: #7a7a58;
-  font-size: 16px;
 }
 
 .projectHead {
@@ -90,12 +95,4 @@ a.contactLinks {
 }
 
 
-
-img.hobbyPic {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 22%;
-
-}
 
