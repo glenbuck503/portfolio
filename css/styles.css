@@ -54,6 +54,7 @@ img.hobbyPic {
 .background {
   background-color: #d8fdd5;
   margin-top:30px;
+  padding: 10px;
 }
 
 .sidebar {
@@ -72,11 +73,13 @@ img.hobbyPic {
 
 .favoritePlaces {
   background-color: #f5f4ca;
+  margin-top: 30px;
 }
 
 .workHistory {
   background-color: #f5f4ca;
   margin-top:30px;
+  padding: 10px;
 }
 
 .projects {
