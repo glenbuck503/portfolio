@@ -26,11 +26,18 @@ a.contactLinks {
   font-size: 16px;
 }
 
+img.pic {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 img.hobbyPic {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 22%;
+  height: auto;
 }
 
 .nameHeader {
@@ -40,6 +47,7 @@ img.hobbyPic {
 .aboutMe {
   font-size: 18px;
   background-color: #d6ecff;
+  
 } 
 
 .headBack {
