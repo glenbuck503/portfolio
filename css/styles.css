@@ -71,12 +71,10 @@ img.hobbyPic {
 	width: 10%;
 	font-size: 14px;
 	border: 2px solid #d8d8d8;
-  /* background-color: black; */
   color:black;
   text-align: center;
   margin-top: 30px;
   color:rgb(248, 120, 120);
-
 }
 
 .favoritePlaces {
@@ -110,6 +108,3 @@ img.hobbyPic {
 .language {
   font-size: 12px;
 }
-
-
-

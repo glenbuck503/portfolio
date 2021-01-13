@@ -26,7 +26,7 @@ This application will show some things about myself. It will also show my work h
 
 ## Known Bugs
 
-There are no know bugs as of 1/8/21.
+There are no known bugs as of 1/8/21.
 
 ## Support and contact details
 
