@@ -1,10 +1,9 @@
-Body {
+body {
   padding: 55px;
 }
 
 h1.nameHeader {
-  font-size: 55px;  
-  /* text-align: center; */
+  font-size: 55px; 
 }
 
 h1.headCenter {
@@ -47,7 +46,6 @@ img.hobbyPic {
 .aboutMe {
   font-size: 18px;
   background-color: #d6ecff;
-  
 } 
 
 .headBack {
@@ -56,7 +54,6 @@ img.hobbyPic {
 
 .hobbies {
   background-color: #d8fdd5;
-
 }
 
 .background {
@@ -91,6 +88,7 @@ img.hobbyPic {
 .projects {
   background-color: #d6ecff;
 }
+
 .tax {
   font-size: 21px;
   font-family: monospace;
@@ -98,7 +96,6 @@ img.hobbyPic {
 
 .underline {
   text-decoration: underline;
-
 }
 
 .projectHead {
